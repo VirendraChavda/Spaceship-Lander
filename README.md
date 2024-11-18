@@ -3,7 +3,7 @@
 
 This repository contains the code and resources for training and evaluating custom neural networks to predict gameplay outcomes and improve decision-making in the <strong>Rocket Launcher Game</strong>. The project demonstrates how neural networks can be built from scratch using Python and NumPy, alongside implementing advanced features like mini-batch gradient descent and activation functions like ReLU.
 
-![Game](game.mp4)
+![Game](game.gif)
 ---
 
 ## Table of Contents
